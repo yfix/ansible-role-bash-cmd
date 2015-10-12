@@ -1,8 +1,8 @@
 ---
 galaxy_info:
-  author: Caleb Woods
+  author: yfix
   description: run any bash command as a role
-  company: RoleModel
+  company: Yfig group
   license: MIT
   min_ansible_version: 1.5
 
@@ -15,5 +15,5 @@ galaxy_info:
     - system
     - development
 
-version: 1.1.0
+version: 1.0.0
 dependencies: []
